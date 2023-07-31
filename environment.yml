@@ -8,4 +8,3 @@ dependencies:
   - ete3
   - ipywidgets
   - IPython
-  - pyqt
