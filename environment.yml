@@ -1,0 +1,11 @@
+name: PrettyTree
+channels:
+  - etetoolkit
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.10.9
+  - ete3
+  - ipywidgets
+  - IPython
+  - pyqt
