@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/mwodring-nb_pretty-lq6emd1h/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "1kKG6GoATj6XewX9BIbWMw",
+  "url": "http://jupyter-mwodring-2dnb-5fpretty-2dlq6emd1h:8888/binder/jupyter/user/mwodring-nb_pretty-lq6emd1h/",
+  "version": "1.23.6"
+}
