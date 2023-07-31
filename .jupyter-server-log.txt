@@ -57,3 +57,60 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-07-31 14:08:47.367 LabApp] Build is up to date
 [I 2023-07-31 14:08:58.492 ServerApp] New terminal with automatic name: 1
 [I 2023-07-31 14:13:53.761 ServerApp] Saving file at /requirements.txt
+Launching jupyter-lab
+[I 2023-07-31 14:44:03.660 ServerApp] jupyter_offlinenotebook | extension was successfully linked.
+[I 2023-07-31 14:44:03.660 ServerApp] jupyter_resource_usage | extension was successfully linked.
+[I 2023-07-31 14:44:03.669 ServerApp] jupyter_server_fileid | extension was successfully linked.
+[I 2023-07-31 14:44:03.676 ServerApp] jupyter_server_ydoc | extension was successfully linked.
+[W 2023-07-31 14:44:03.680 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.680 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.680 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.680 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.680 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-07-31 14:44:03.690 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-07-31 14:44:03.694 NotebookApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-07-31 14:44:03.694 NotebookApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-07-31 14:44:03.694 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.694 NotebookApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-07-31 14:44:03.694 NotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-07-31 14:44:03.700 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-07-31 14:44:04.089 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-07-31 14:44:04.130 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-07-31 14:44:04.131 ServerApp] jupyter_offlinenotebook | extension was successfully loaded.
+[I 2023-07-31 14:44:04.133 ServerApp] jupyter_resource_usage | extension was successfully loaded.
+[I 2023-07-31 14:44:04.133 FileIdExtension] Configured File ID manager: ArbitraryFileIdManager
+[I 2023-07-31 14:44:04.133 FileIdExtension] ArbitraryFileIdManager : Configured root dir: /home/jovyan
+[I 2023-07-31 14:44:04.134 FileIdExtension] ArbitraryFileIdManager : Configured database path: /home/jovyan/.local/share/jupyter/file_id_manager.db
+[I 2023-07-31 14:44:04.136 FileIdExtension] ArbitraryFileIdManager : Successfully connected to database file.
+[I 2023-07-31 14:44:04.136 FileIdExtension] ArbitraryFileIdManager : Creating File ID tables and indices with journal_mode = DELETE
+[I 2023-07-31 14:44:04.136 ServerApp] jupyter_server_fileid | extension was successfully loaded.
+[I 2023-07-31 14:44:04.138 ServerApp] jupyter_server_ydoc | extension was successfully loaded.
+[I 2023-07-31 14:44:04.139 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.10/site-packages/jupyterlab
+[I 2023-07-31 14:44:04.139 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 2023-07-31 14:44:04.149 ServerApp] jupyterlab | extension was successfully loaded.
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                                                                           
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 2023-07-31 14:44:04.156 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-07-31 14:44:04.157 ServerApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 2023-07-31 14:44:04.157 ServerApp] Serving notebooks from local directory: /home/jovyan
+[I 2023-07-31 14:44:04.157 ServerApp] Jupyter Server 1.23.6 is running at:
+[I 2023-07-31 14:44:04.157 ServerApp] http://jupyter-mwodring-2dnb-5fpretty-2dxm65jpf6:8888/binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/lab?token=...
+[I 2023-07-31 14:44:04.157 ServerApp]  or http://127.0.0.1:8888/binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/lab?token=...
+[I 2023-07-31 14:44:04.157 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-07-31 14:44:04.163 ServerApp] No web browser found: could not locate runnable browser.
+[I 2023-07-31 14:44:05.563 ServerApp] 302 GET /binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/ (10.244.1.88) 1.40ms
+[I 2023-07-31 14:44:06.748 ServerApp] 302 GET /binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/?token=[secret] (51.52.175.164) 1.43ms
+[W 2023-07-31 14:44:16.834 ServerApp] 404 GET /binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/api/me?1690814656402 (51.52.175.164) 40.40ms referer=https://notebooks.gesis.org/binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/lab
+[I 2023-07-31 14:44:23.820 ServerApp] New terminal with automatic name: 1
+[I 2023-07-31 14:44:23.886 LabApp] Build is up to date
