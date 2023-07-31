@@ -1,5 +1,5 @@
 {
-  "base_url": "/binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/",
+  "base_url": "/binder/jupyter/user/mwodring-nb_pretty-8w1xbko4/",
   "hostname": "0.0.0.0",
   "password": false,
   "pid": 18,
@@ -7,7 +7,7 @@
   "root_dir": "/home/jovyan",
   "secure": false,
   "sock": "",
-  "token": "ZsdaSo_gQoSefK58gMWYkw",
-  "url": "http://jupyter-mwodring-2dnb-5fpretty-2dxm65jpf6:8888/binder/jupyter/user/mwodring-nb_pretty-xm65jpf6/",
+  "token": "0N5FN5UNSqql4p9Z7zshTw",
+  "url": "http://jupyter-mwodring-2dnb-5fpretty-2d8w1xbko4:8888/binder/jupyter/user/mwodring-nb_pretty-8w1xbko4/",
   "version": "1.23.6"
 }
